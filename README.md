@@ -1,9 +1,8 @@
 # Project1_Simon Says
-From Udemy
-
-https://ssang8801.github.io/Project1_/
 
 Project Title: Simon Says Game
+
+url: https://ssang8801.github.io/Project1_/
 
 Date: 3/22/2022
 
